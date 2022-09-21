@@ -1,4 +1,4 @@
-# <Adam Study Guide>
+# Adam Study Guide
 
 ## Description
 
